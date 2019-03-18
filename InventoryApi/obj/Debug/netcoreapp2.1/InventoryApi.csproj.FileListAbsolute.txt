@@ -1,0 +1,14 @@
+D:\AIM\InventoryApi\InventoryApi\bin\Debug\netcoreapp2.1\InventoryApi.deps.json
+D:\AIM\InventoryApi\InventoryApi\bin\Debug\netcoreapp2.1\InventoryApi.runtimeconfig.json
+D:\AIM\InventoryApi\InventoryApi\bin\Debug\netcoreapp2.1\InventoryApi.runtimeconfig.dev.json
+D:\AIM\InventoryApi\InventoryApi\bin\Debug\netcoreapp2.1\InventoryApi.dll
+D:\AIM\InventoryApi\InventoryApi\obj\Debug\netcoreapp2.1\InventoryApi.csprojAssemblyReference.cache
+D:\AIM\InventoryApi\InventoryApi\obj\Debug\netcoreapp2.1\InventoryApi.csproj.CoreCompileInputs.cache
+D:\AIM\InventoryApi\InventoryApi\obj\Debug\netcoreapp2.1\InventoryApi.RazorAssemblyInfo.cache
+D:\AIM\InventoryApi\InventoryApi\obj\Debug\netcoreapp2.1\InventoryApi.RazorAssemblyInfo.cs
+D:\AIM\InventoryApi\InventoryApi\obj\Debug\netcoreapp2.1\InventoryApi.AssemblyInfoInputs.cache
+D:\AIM\InventoryApi\InventoryApi\obj\Debug\netcoreapp2.1\InventoryApi.AssemblyInfo.cs
+D:\AIM\InventoryApi\InventoryApi\obj\Debug\netcoreapp2.1\InventoryApi.RazorTargetAssemblyInfo.cache
+D:\AIM\InventoryApi\InventoryApi\bin\Debug\netcoreapp2.1\InventoryApi.pdb
+D:\AIM\InventoryApi\InventoryApi\obj\Debug\netcoreapp2.1\InventoryApi.dll
+D:\AIM\InventoryApi\InventoryApi\obj\Debug\netcoreapp2.1\InventoryApi.pdb
